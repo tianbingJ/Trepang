@@ -26,5 +26,8 @@ Trepang is an implementation of Raft Algorithm in Go
 **[Raft Refloated: Do We Have Consensus?](https://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf)**
 > Raft的一种实现，论文分析了Raft，并做了一点工程上的优化，借鉴意义不是很大。
 
+**[Zookeeper](https://www.usenix.org/legacy/events/atc10/tech/full_papers/Hunt.pdf)**
+> 提出ZK的炉温，Raft在使用上很多地方与ZK类似，值得借鉴。
+
 ## 文档
 **[Raft问答](doc/raft_qa.md)**
