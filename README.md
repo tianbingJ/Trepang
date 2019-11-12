@@ -30,4 +30,6 @@ Trepang is an implementation of Raft Algorithm in Go
 > 提出ZK的论文，Raft在使用上很多地方与ZK类似，值得借鉴。
 
 ## 文档
-**[Raft问答](doc/raft_qa.md)**
+
+**[Raft理解](doc/raft_qa.md)**
+**[优化](doc/optimization.md)**
