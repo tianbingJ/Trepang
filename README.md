@@ -32,4 +32,5 @@ Trepang is an implementation of Raft Algorithm in Go
 ## 文档
 
 **[Raft理解](doc/raft_qa.md)**
+
 **[优化](doc/optimization.md)**
