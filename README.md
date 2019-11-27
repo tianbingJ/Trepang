@@ -1,6 +1,11 @@
 # Trepang
-Trepang is an implementation of Raft Algorithm in Go
+Trepang is an implementation of Raft Algorithm in Go(To be implemented).
 
+- Log Persistence : Rocksdb or Leveldb
+- Snapshot
+- Batch Replication
+- Pipeline
+- Membership Management
 
 ## 资料
 总结学习和实现Raft过程中用到的一些资料。
@@ -27,7 +32,7 @@ Trepang is an implementation of Raft Algorithm in Go
 > Raft的一种实现，论文分析了Raft，并做了一点工程上的优化，借鉴意义不是很大。
 
 **[Zookeeper](https://www.usenix.org/legacy/events/atc10/tech/full_papers/Hunt.pdf)**
-> 提出ZK的论文，Raft在使用上很多地方与ZK类似，值得借鉴。
+> 提出ZK的论文，ZK作为类似成功应用的案例，值得借鉴。
 
 ## 文档
 
