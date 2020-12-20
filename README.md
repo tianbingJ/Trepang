@@ -1,11 +1,4 @@
 # Trepang
-Trepang is an implementation of Raft Algorithm in Go(To be implemented).
-
-- Log Persistence : Rocksdb or Leveldb
-- Snapshot
-- Batch Replication
-- Pipeline
-- Membership Management
 
 ## 资料
 总结学习和实现Raft过程中用到的一些资料。
